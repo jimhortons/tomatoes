@@ -4,11 +4,16 @@
 
 <style>
     nav{
-        padding:1rem;
+ 
         box-shadow: 0 0 2px 1px rgba(0,0,0,0.125);
+        
     }
     ul{
-        background-color: red;
+        display:flex;
+        justify-content: center;
+        gap: 2.5rem;
+        padding: 0.5rem 0;
+        background-color: white;
     }
  
 </style>

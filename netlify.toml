@@ -5,3 +5,8 @@
 
 [build]
   publish = "dist"
+
+  [dev]
+  framework="vite"
+  autoLaunch=true
+  targetPort=5000
